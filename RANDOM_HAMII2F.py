@@ -190,7 +190,7 @@ def my_tool_security():
     os.system("clear")
     print(logo)
     print(47*"-")
-    print(c, 45*"-", wit)
+    print(c, 45*"-",)
     print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
     print("\t  Fb page  : Hamii Hbf Cammands")
     print("\t  Github   : Hamii-king-06")
